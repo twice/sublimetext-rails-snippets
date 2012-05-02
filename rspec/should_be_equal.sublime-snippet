@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[${1:target}.should eql(${2:value}) ]]>
+	</content>
+	 <tabTrigger>she</tabTrigger> 
+	 <scope>source.ruby</scope> 
+	 <description>should eql(..)</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[${1:target}.should raise_error(${2:error}) ]]>
+	</content>
+	 <tabTrigger>shre</tabTrigger> 
+	 <scope>source.ruby</scope> 
+	 <description>should raise_error</description>
+</snippet>

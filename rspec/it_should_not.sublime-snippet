@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[it {should_not $1}]]>
+	</content>
+	 <tabTrigger>itn</tabTrigger> 
+	 <scope>source.ruby</scope> 
+	 <description>it {should_not ..}</description>
+</snippet>

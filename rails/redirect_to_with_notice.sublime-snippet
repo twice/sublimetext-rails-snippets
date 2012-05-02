@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[redirect_to ${2:path}, :notice  => ${0:"message .."}]]>
+	</content>
+	<tabTrigger>repn</tabTrigger>
+	<scope>source.ruby.rails</scope>
+	<description>redirect_to (path, notice)</description>
+</snippet>

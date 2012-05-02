@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<%= image_tag "${1:name.png}",:size => "${2}x${3}", :alt => "${0:Alt}"  %>]]></content>
+	<tabTrigger>it</tabTrigger> 
+	<scope>text.html.ruby</scope> 
+</snippet>

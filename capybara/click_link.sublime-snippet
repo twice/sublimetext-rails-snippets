@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[click_link "${1: Link Text or id-of-link}" ]]></content>
+ 	<tabTrigger>cl</tabTrigger>
+	<scope>source.ruby</scope>
+	<description>
+		click_link ...
+	</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[gem '${1:name}', '~> ${2:version}']]>
+	</content>
+	 <tabTrigger>gem</tabTrigger> 
+</snippet>

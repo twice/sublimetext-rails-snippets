@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[current_path.should == ${1:current}_path ]]></content>
+ 	<tabTrigger>cp</tabTrigger>
+	<scope>source.ruby</scope>
+	<description>
+		current_path.should
+	</description>
+</snippet>

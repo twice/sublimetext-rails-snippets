@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<%= render :action => ${1:'edit'} %>]]></content>
+	<tabTrigger>rena</tabTrigger>
+	<scope>text.html.ruby</scope>
+</snippet>

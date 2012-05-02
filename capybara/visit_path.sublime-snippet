@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[visit ${1}_path]]></content>
+ 	<tabTrigger>vis</tabTrigger>
+	<scope>source.ruby</scope>
+	<description>
+		visit path
+	</description>
+</snippet>

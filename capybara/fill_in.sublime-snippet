@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[fill_in '${1:name}', :with => "${2:value}" ]]></content>
+ 	<tabTrigger>fi</tabTrigger>
+	<scope>source.ruby</scope>
+	<description>
+		fill_in ... :with
+	</description>
+</snippet>

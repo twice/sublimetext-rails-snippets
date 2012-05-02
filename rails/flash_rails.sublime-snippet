@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[flash[:notice] = "$1"]]></content>
+	<tabTrigger>fla</tabTrigger>
+	<scope>source.ruby.rails</scope>
+	<description>
+		flash[:notice] = ''
+	</description>
+</snippet>

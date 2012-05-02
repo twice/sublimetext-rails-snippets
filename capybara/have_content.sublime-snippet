@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[page.should have_content(${1:content})]]></content>
+	<tabTrigger>pshc</tabTrigger>
+	<scope>source.ruby</scope> 
+	<description>page.should have_content(..)</description>
+</snippet>

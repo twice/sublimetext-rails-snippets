@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<%= simple_form_for (@${1:model}, :html => {  :class => 'form-${2:vertical}' }) do |f|  %>
+	
+	<% if f.error_notification %>
+		<div class="alert alert-error fade in">
+			<a href="#" class="close" data-dismiss="alert">&times;</a>
+			<%= f.error_notification %>
+		</div>
+	<% end %>  
+
+	<legend>${3:form_legend}</legend>
+
+	 ${4}
+
+	<div class="form-actions">
+		<%= f.button :submit,  :class => "btn-primary"  %>
+		<%= submit_tag 'Cancel', :type => :reset, :class => "btn btn-danger" %>
+	</div>
+<% end %> 
+]]></content>
+	<tabTrigger>sff</tabTrigger>
+	<scope>text.html.ruby</scope> 
+	<description>simple_form_for_bootstrap</description>
+</snippet>

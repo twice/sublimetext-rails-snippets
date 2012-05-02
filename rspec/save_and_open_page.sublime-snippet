@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[save_and_open_page ]]>
+	</content>
+	 <tabTrigger>saop</tabTrigger> 
+	 <scope>source.ruby</scope> 
+	 <description>save_and_open_page</description>
+</snippet>

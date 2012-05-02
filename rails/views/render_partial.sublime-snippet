@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<%= render ${1:'partial_name'} %>]]></content>
+	<tabTrigger>ren</tabTrigger>
+	<scope>text.html.ruby</scope>
+</snippet>

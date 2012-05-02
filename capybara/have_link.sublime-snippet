@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[page.should have_link(${1:link_text})]]></content>
+	<tabTrigger>pshl</tabTrigger>
+	<scope>source.ruby</scope> 
+	<description>page.should have_link(..)</description>
+</snippet>

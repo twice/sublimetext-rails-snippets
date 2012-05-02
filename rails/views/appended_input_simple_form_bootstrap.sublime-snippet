@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<%= f.input :${1:name}, :wrapper => :${2:prepend},:label => false do  %>
+	<%= content_tag :span, "${3:Name}", :class => "add-on"  %>
+	<%= f.input_field :${4:name} %>
+<% end %> 
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.html.ruby</scope>
+	<description>simpleform bootstrap appended text input</description>
+</snippet>

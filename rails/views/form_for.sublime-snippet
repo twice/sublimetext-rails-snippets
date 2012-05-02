@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[<% form_for $1 do |f| %>
+	$0
+	<p class="button">
+		<%= f.submit %>
+	</p>
+<% end %>]]></content>
+    <tabTrigger>ff</tabTrigger>
+    <scope>text.html.ruby, text.haml</scope>
+    <description>form_for_better</description>
+</snippet>

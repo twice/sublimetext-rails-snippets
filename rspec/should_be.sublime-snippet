@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[${1:target}.should be(${2:result}) ]]>
+	</content>
+	 <tabTrigger>shb</tabTrigger> 
+	 <scope>source.ruby</scope> 
+	 <description>should be(..)</description>
+</snippet>

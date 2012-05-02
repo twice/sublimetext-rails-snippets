@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[within(${1:selector}) do
+	${2}
+end
+]]></content>
+	<tabTrigger>within</tabTrigger>
+	<scope>source.ruby</scope> 
+	<description>within(..)do..end</description>
+</snippet>
+

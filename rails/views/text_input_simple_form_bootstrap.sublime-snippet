@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<%= f.input :${1:name}, :input_html => { :class => "span${2:6}" }${3:, :hint => "hint text .."} %>
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<scope>text.html.ruby</scope>
+	<description>simpleform bootstrap text input</description>
+</snippet>

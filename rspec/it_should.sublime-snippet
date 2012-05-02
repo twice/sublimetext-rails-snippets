@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[it {should $1}]]>
+	</content>
+	 <tabTrigger>it</tabTrigger> 
+	 <scope>source.ruby</scope> 
+	 <description>it {should ..}</description>
+</snippet>

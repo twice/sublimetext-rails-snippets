@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[click_button '${1:name}']]></content>
+ 	<tabTrigger>cb</tabTrigger>
+	<scope>source.ruby</scope>
+	<description>
+		click_button ...
+	</description>
+</snippet>

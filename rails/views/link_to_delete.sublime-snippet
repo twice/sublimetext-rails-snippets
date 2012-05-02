@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= link_to '${1:Delete}', ${2:path}, :confirm => 'Are you sure?', :method => :delete %>]]></content>
+  <tabTrigger>ltd</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>link_to_delete</description>
+</snippet>

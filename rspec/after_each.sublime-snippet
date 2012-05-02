@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[$after(${1::each}) do
+		${2}
+	end ]]>
+	</content>
+	 <tabTrigger>aft</tabTrigger> 
+	 <scope>source.ruby</scope> 
+	 <description>after(:each)</description>
+</snippet>

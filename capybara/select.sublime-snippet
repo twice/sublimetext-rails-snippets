@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[select '${1:Option}', :from => '${2:Select Box}' ]]></content>
+ 	<tabTrigger>sel</tabTrigger>
+	<scope>source.ruby</scope>
+	<description>
+		select Option, :from ...
+	</description>
+</snippet>
