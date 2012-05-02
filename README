@@ -1,0 +1,7 @@
+Sublime Text 2 Snippets
+=======================
+
+cd to your sublime text 2 User Packages directory. It should be something like 
+~/Library/Application Support/Sublime Text 2/Packages/User. Then clone the repo
+
+ git clone git@github.com:twice/sublimetext-rails-snippets.git
